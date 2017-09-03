@@ -1,0 +1,10 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\bin\Debug\Draw01.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\bin\Debug\Draw01.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\bin\Debug\Draw01.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\obj\Debug\Draw01.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\obj\Debug\Draw01.Form1.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\obj\Debug\Draw01.Properties.Resources.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\obj\Debug\Draw01.csproj.GenerateResource.Cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\obj\Debug\Draw01.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\obj\Debug\Draw01.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Draw01\Draw01\obj\Debug\Draw01.pdb
